@@ -1,0 +1,174 @@
+@cwd /usr/pkg
+@name ueberzug-18.1.9
+@blddep py38-psutil-5.8.0
+@pkgdep py38-psutil>=5.8.0
+@blddep py38-Pillow-8.2.0
+@pkgdep py38-Pillow>=8.2.0
+@blddep py38-docopt-0.6.2
+@pkgdep py38-docopt>=0.6.2
+@blddep py38-attrs-19.3.0
+@pkgdep py38-attrs>=18.2.0
+@blddep py38-setuptools-56.0.0
+@pkgdep py38-setuptools-[0-9]*
+@blddep python38-3.8.10nb1
+@pkgdep python38>=3.8.0
+@blddep digest-20190127
+@blddep x11-links-1.33
+@blddep cwrappers-20180325
+@comment $NetBSD$
+bin/ueberzug
+@comment MD5:4867bc3f418a2557a8c4a2f4a9ecf803
+lib/python3.8/site-packages/Xshm.so
+@comment MD5:f921c1d34255d412e186717d0b5cf132
+lib/python3.8/site-packages/ueberzug-18.1.9-py3.8.egg-info/PKG-INFO
+@comment MD5:922bc638368d1fd102131b4ab9a3fcd2
+lib/python3.8/site-packages/ueberzug-18.1.9-py3.8.egg-info/SOURCES.txt
+@comment MD5:78009ee985cb6042cf965c832d065754
+lib/python3.8/site-packages/ueberzug-18.1.9-py3.8.egg-info/dependency_links.txt
+@comment MD5:68b329da9893e34099c7d8ad5cb9c940
+lib/python3.8/site-packages/ueberzug-18.1.9-py3.8.egg-info/entry_points.txt
+@comment MD5:28b5e9c3d4c544035e3218e85aaf54f0
+lib/python3.8/site-packages/ueberzug-18.1.9-py3.8.egg-info/requires.txt
+@comment MD5:a7a1eea23fa49c94fd2f08da41026867
+lib/python3.8/site-packages/ueberzug-18.1.9-py3.8.egg-info/top_level.txt
+@comment MD5:d4c51afe09bddc440ae34c888ced3927
+lib/python3.8/site-packages/ueberzug/__init__.py
+@comment MD5:75519643ad2e4495d5487d6326e41810
+lib/python3.8/site-packages/ueberzug/__pycache__/__init__.cpython-38.pyc
+@comment MD5:5bee37cca4979d9f8fdfacab73914dca
+lib/python3.8/site-packages/ueberzug/__pycache__/__init__.cpython-38.opt-1.pyc
+@comment MD5:3513c805b36ef7564916d0f4c1864046
+lib/python3.8/site-packages/ueberzug/__main__.py
+@comment MD5:12a543d23ce7a42c10b8fbc7e860a81b
+lib/python3.8/site-packages/ueberzug/__pycache__/__main__.cpython-38.pyc
+@comment MD5:1c4e8870af3373ea5e059154d3d7c99a
+lib/python3.8/site-packages/ueberzug/__pycache__/__main__.cpython-38.opt-1.pyc
+@comment MD5:1c4e8870af3373ea5e059154d3d7c99a
+lib/python3.8/site-packages/ueberzug/action.py
+@comment MD5:c48df70b3bf98e7402e3e6e5938c1935
+lib/python3.8/site-packages/ueberzug/__pycache__/action.cpython-38.pyc
+@comment MD5:5623226030e8ff6cd3897d8ec4ce468d
+lib/python3.8/site-packages/ueberzug/__pycache__/action.cpython-38.opt-1.pyc
+@comment MD5:fa024aa1841c5ec760a47adb4d6ca0bb
+lib/python3.8/site-packages/ueberzug/batch.py
+@comment MD5:6a5154c3b85b68387d7022cc43f906f7
+lib/python3.8/site-packages/ueberzug/__pycache__/batch.cpython-38.pyc
+@comment MD5:fbb8bb2c5713153c42e65cbb937c50c6
+lib/python3.8/site-packages/ueberzug/__pycache__/batch.cpython-38.opt-1.pyc
+@comment MD5:553da26eea8fde759580d6ed79c8e23e
+lib/python3.8/site-packages/ueberzug/conversion.py
+@comment MD5:30f1fd405c41b5adb882a463a7111579
+lib/python3.8/site-packages/ueberzug/__pycache__/conversion.cpython-38.pyc
+@comment MD5:90f089b5335cb84b3c7892bc507d4e7a
+lib/python3.8/site-packages/ueberzug/__pycache__/conversion.cpython-38.opt-1.pyc
+@comment MD5:90f089b5335cb84b3c7892bc507d4e7a
+lib/python3.8/site-packages/ueberzug/files.py
+@comment MD5:c4734e0160fee60b69de7fefea2cf0a6
+lib/python3.8/site-packages/ueberzug/__pycache__/files.cpython-38.pyc
+@comment MD5:6a7f28371d1120b2836e4305373292a8
+lib/python3.8/site-packages/ueberzug/__pycache__/files.cpython-38.opt-1.pyc
+@comment MD5:6a7f28371d1120b2836e4305373292a8
+lib/python3.8/site-packages/ueberzug/geometry.py
+@comment MD5:d8cae4a3e94ceabcbafaa61aeda04da6
+lib/python3.8/site-packages/ueberzug/__pycache__/geometry.cpython-38.pyc
+@comment MD5:7aa4c5f0d2f32027fe14f6849c10d2d7
+lib/python3.8/site-packages/ueberzug/__pycache__/geometry.cpython-38.opt-1.pyc
+@comment MD5:7aa4c5f0d2f32027fe14f6849c10d2d7
+lib/python3.8/site-packages/ueberzug/layer.py
+@comment MD5:5b3d3347dbcc173a08a0b94c5a66efd8
+lib/python3.8/site-packages/ueberzug/__pycache__/layer.cpython-38.pyc
+@comment MD5:99b51ed7b27d3364609e0d9153f30f4d
+lib/python3.8/site-packages/ueberzug/__pycache__/layer.cpython-38.opt-1.pyc
+@comment MD5:23b7271626522b85a257b70c849637b8
+lib/python3.8/site-packages/ueberzug/lib/__init__.py
+@comment MD5:d41d8cd98f00b204e9800998ecf8427e
+lib/python3.8/site-packages/ueberzug/lib/__pycache__/__init__.cpython-38.pyc
+@comment MD5:45949ac381411daa6e14c290ac4a7a51
+lib/python3.8/site-packages/ueberzug/lib/__pycache__/__init__.cpython-38.opt-1.pyc
+@comment MD5:45949ac381411daa6e14c290ac4a7a51
+lib/python3.8/site-packages/ueberzug/lib/lib.sh
+@comment MD5:ce9621d8196c09d4af9bedcb2160288f
+lib/python3.8/site-packages/ueberzug/lib/v0/__init__.py
+@comment MD5:7e3f71bf64204356ae8579ba6efee6d6
+lib/python3.8/site-packages/ueberzug/lib/v0/__pycache__/__init__.cpython-38.pyc
+@comment MD5:f9fe9287f55720b7689a2dc04c579477
+lib/python3.8/site-packages/ueberzug/lib/v0/__pycache__/__init__.cpython-38.opt-1.pyc
+@comment MD5:e6a4f9bc653d75ee34bb0a806b8737f8
+lib/python3.8/site-packages/ueberzug/library.py
+@comment MD5:4863e69857da0e333902cb0a3f149a17
+lib/python3.8/site-packages/ueberzug/__pycache__/library.cpython-38.pyc
+@comment MD5:0913b8eabde233b89c46046fc5a7ca4b
+lib/python3.8/site-packages/ueberzug/__pycache__/library.cpython-38.opt-1.pyc
+@comment MD5:57e32bd6b4615fe8f9fbb8d5db0687b5
+lib/python3.8/site-packages/ueberzug/loading.py
+@comment MD5:3d7689ef3a9b597dd0b95d1ece44f407
+lib/python3.8/site-packages/ueberzug/__pycache__/loading.cpython-38.pyc
+@comment MD5:eb4f4e20aeb38a496259f65dfefe61bc
+lib/python3.8/site-packages/ueberzug/__pycache__/loading.cpython-38.opt-1.pyc
+@comment MD5:12c252062268f6f609b09321362272e7
+lib/python3.8/site-packages/ueberzug/parser.py
+@comment MD5:25ef991778f0ce840ba1b09ad5db4231
+lib/python3.8/site-packages/ueberzug/__pycache__/parser.cpython-38.pyc
+@comment MD5:309c03d30829daeded68d9aacdb169d4
+lib/python3.8/site-packages/ueberzug/__pycache__/parser.cpython-38.opt-1.pyc
+@comment MD5:8e8bdc076ac7ecb93222c08859dbf8d1
+lib/python3.8/site-packages/ueberzug/pattern.py
+@comment MD5:21607d2840f8ff3f4b3f9677228f06e9
+lib/python3.8/site-packages/ueberzug/__pycache__/pattern.cpython-38.pyc
+@comment MD5:e9c602f42d7e7fc63899fc753de785d3
+lib/python3.8/site-packages/ueberzug/__pycache__/pattern.cpython-38.opt-1.pyc
+@comment MD5:e9c602f42d7e7fc63899fc753de785d3
+lib/python3.8/site-packages/ueberzug/process.py
+@comment MD5:14567eb4bf29085584119d38d76fea0a
+lib/python3.8/site-packages/ueberzug/__pycache__/process.cpython-38.pyc
+@comment MD5:bb598f6da1c02dea42f8904536e9e8a6
+lib/python3.8/site-packages/ueberzug/__pycache__/process.cpython-38.opt-1.pyc
+@comment MD5:2c2c21edc63f5541c6f062b47f20ea58
+lib/python3.8/site-packages/ueberzug/query_windows.py
+@comment MD5:259accd4e472f9b425025e3b261ffaba
+lib/python3.8/site-packages/ueberzug/__pycache__/query_windows.cpython-38.pyc
+@comment MD5:0b795bbb8a76f1088f5ae9f44b25ce98
+lib/python3.8/site-packages/ueberzug/__pycache__/query_windows.cpython-38.opt-1.pyc
+@comment MD5:bcdc611ee866a59ee98e09b0214c2593
+lib/python3.8/site-packages/ueberzug/scaling.py
+@comment MD5:8e1336ae5d5c896ff3b0653db1ab60ca
+lib/python3.8/site-packages/ueberzug/__pycache__/scaling.cpython-38.pyc
+@comment MD5:b3039b5687f1c1254ed50d71881b73a8
+lib/python3.8/site-packages/ueberzug/__pycache__/scaling.cpython-38.opt-1.pyc
+@comment MD5:275357e034b9af2c7fef6828d6604231
+lib/python3.8/site-packages/ueberzug/terminal.py
+@comment MD5:5b5d1cf8a846865e7f0821c2411bb657
+lib/python3.8/site-packages/ueberzug/__pycache__/terminal.cpython-38.pyc
+@comment MD5:314d4a9d3192d743017da99ea933fd57
+lib/python3.8/site-packages/ueberzug/__pycache__/terminal.cpython-38.opt-1.pyc
+@comment MD5:0c8514af7702da97567f030d12aff9d4
+lib/python3.8/site-packages/ueberzug/thread.py
+@comment MD5:4de582c1c3ecccd5fcb68837db09631b
+lib/python3.8/site-packages/ueberzug/__pycache__/thread.cpython-38.pyc
+@comment MD5:38d2b0153c3c7feffa659cb7503d9cbc
+lib/python3.8/site-packages/ueberzug/__pycache__/thread.cpython-38.opt-1.pyc
+@comment MD5:d7f88d014e446be1b73fb82cb33b14c7
+lib/python3.8/site-packages/ueberzug/tmux_util.py
+@comment MD5:dfd7da387871c0ffe3d805a97d05ff12
+lib/python3.8/site-packages/ueberzug/__pycache__/tmux_util.cpython-38.pyc
+@comment MD5:595d4f41f36121d357ae0024b00e71b3
+lib/python3.8/site-packages/ueberzug/__pycache__/tmux_util.cpython-38.opt-1.pyc
+@comment MD5:cbf5294cd2786af5b7b4f9429b8f754c
+lib/python3.8/site-packages/ueberzug/ui.py
+@comment MD5:1f7275efa58877bdf395101c78589d8b
+lib/python3.8/site-packages/ueberzug/__pycache__/ui.cpython-38.pyc
+@comment MD5:81ec4075c593d235fe13c0d0c398ac97
+lib/python3.8/site-packages/ueberzug/__pycache__/ui.cpython-38.opt-1.pyc
+@comment MD5:1f218cef553152c45b27c3532b8d06b6
+lib/python3.8/site-packages/ueberzug/version.py
+@comment MD5:13aae1b46aa10fabcd69c340b8877152
+lib/python3.8/site-packages/ueberzug/__pycache__/version.cpython-38.pyc
+@comment MD5:c7543c09790549bcb8673668e054d793
+lib/python3.8/site-packages/ueberzug/__pycache__/version.cpython-38.opt-1.pyc
+@comment MD5:c7543c09790549bcb8673668e054d793
+lib/python3.8/site-packages/ueberzug/xutil.py
+@comment MD5:14ef28d1f245654aea03605bc84052b8
+lib/python3.8/site-packages/ueberzug/__pycache__/xutil.cpython-38.pyc
+@comment MD5:18081d01eb36a81c0aa96257ac32e0c9
+lib/python3.8/site-packages/ueberzug/__pycache__/xutil.cpython-38.opt-1.pyc
+@comment MD5:83f93d08a7f0ebf8b68b03f812658c26

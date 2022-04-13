@@ -1,0 +1,10 @@
+bootstrap	digest>=20010302	digest-20190127
+tool	checkperms>=1.1	checkperms-1.12
+build	x11-links>=1.33	x11-links-1.33
+build	cwrappers>=20150314	cwrappers-20180325
+full	py38-psutil>=5.8.0	py38-psutil-5.8.0
+full	py38-Pillow>=8.2.0	py38-Pillow-8.2.0
+full	py38-docopt>=0.6.2	py38-docopt-0.6.2
+full	py38-attrs>=18.2.0	py38-attrs-19.3.0
+full	py38-setuptools-[0-9]*	py38-setuptools-56.0.0
+full	python38>=3.8.0	python38-3.8.10nb1

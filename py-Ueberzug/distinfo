@@ -1,0 +1,10 @@
+$NetBSD$
+
+SHA1 (ueberzug-18.1.9.tar.gz) = 4b24033cdabfc1f5e2347897da0933f7e4755da4
+RMD160 (ueberzug-18.1.9.tar.gz) = a762d23d743bcf245415962d2b93905b9e0f18ad
+SHA512 (ueberzug-18.1.9.tar.gz) = 68236de290964fba40b260e69a242fff537250bef984c5d2c7c6ffc7e90c258e98306238ac80293fae142e4df8e85b949a33643fba231dc7ea2096304e887b06
+Size (ueberzug-18.1.9.tar.gz) = 51716 bytes
+SHA1 (patch-Xshm_Xshm.c) = c9eea05df9b920b663d3525f841377058fd697ec
+SHA1 (patch-examples_fzfimg.sh) = 3adb20224f74b599c3b531ffd9a8b6bb32ddcdea
+SHA1 (patch-ueberzug_query__windows.py) = 102b8b520b553065342c451e056fc619739284a0
+SHA1 (patch-ueberzug_xutil.py) = 5848ed8814298da405949df0f69a71e3c3b6f471

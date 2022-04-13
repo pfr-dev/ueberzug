@@ -1,0 +1,38 @@
+ABI=
+BUILD_DATE=2021-06-24 08:15:20 +1000
+BUILD_HOST=NetBSD hackbox 9.2_STABLE NetBSD 9.2_STABLE (GENERIC) #0: Sat Jun  5 10:56:18 UTC 2021  mkrepro@mkrepro.NetBSD.org:/usr/src/sys/arch/amd64/compile/GENERIC amd64
+BUILTIN_PKGS=libXext-1.3.4 libX11-1.6.10 xorgproto-2018.4 libxcb-1.13.1 xcb-proto-1.13 libXres-1.2.0
+CATEGORIES=local
+CC_VERSION=gcc-7.5.0
+CFLAGS=-O2 -D_FORTIFY_SOURCE=2 -I/usr/pkg/include -I/usr/X11R7/include -I/usr/include -I/usr/pkg/include/python3.8
+CMAKE_ARGS=
+CONFIGURE_ARGS=
+CONFIGURE_ENV=PTHREAD_CFLAGS=\ -pthread\  PTHREAD_LDFLAGS=\ -pthread PTHREAD_LIBS= PTHREADBASE=/usr DL_CFLAGS=\ -pthread\  DL_LDFLAGS=\ -pthread DL_LIBS= INSTALL_INFO= MAKEINFO=/home/dave/pkgsrc/local/py-Ueberzug/work/.tools/bin/makeinfo FLEX= BISON= ITSTOOL=/home/dave/pkgsrc/local/py-Ueberzug/work/.tools/bin/itstool GDBUS_CODEGEN=/home/dave/pkgsrc/local/py-Ueberzug/work/.tools/bin/gdbus-codegen PKG_CONFIG= PKG_CONFIG_LIBDIR=/home/dave/pkgsrc/local/py-Ueberzug/work/.buildlink/lib/pkgconfig:/home/dave/pkgsrc/local/py-Ueberzug/work/.buildlink/share/pkgconfig PKG_CONFIG_LOG=/home/dave/pkgsrc/local/py-Ueberzug/work/.pkg-config.log PKG_CONFIG_PATH= MAKE=make CWRAPPERS_CONFIG_DIR=/home/dave/pkgsrc/local/py-Ueberzug/work/.cwrapper/config PYTHON=/usr/pkg/bin/python3.8 CC=gcc CFLAGS=-O2\ -D_FORTIFY_SOURCE=2\ -I/usr/pkg/include\ -I/usr/X11R7/include\ -I/usr/include\ -I/usr/pkg/include/python3.8 CPPFLAGS=-I/usr/pkg/include\ -I/usr/X11R7/include\ -I/usr/include\ -I/usr/pkg/include/python3.8 CXX=c++ CXXFLAGS=-O2\ -D_FORTIFY_SOURCE=2\ -I/usr/pkg/include\ -I/usr/X11R7/include\ -I/usr/include\ -I/usr/pkg/include/python3.8 COMPILER_RPATH_FLAG=-Wl,-R F77=gfortran FC=gfortran FFLAGS=-O LANG=C LC_ALL=C LC_COLLATE=C LC_CTYPE=C LC_MESSAGES=C LC_MONETARY=C LC_NUMERIC=C LC_TIME=C LDFLAGS=-L/usr/pkg/lib\ -L/usr/X11R7/lib\ -Wl,-R/usr/X11R7/lib\ -L/usr/lib\ -Wl,-R/usr/lib\ -Wl,-R/usr/pkg/lib LINKER_RPATH_FLAG=-R PATH=/home/dave/pkgsrc/local/py-Ueberzug/work/.cwrapper/bin:/home/dave/pkgsrc/local/py-Ueberzug/work/.buildlink/bin:/home/dave/pkgsrc/local/py-Ueberzug/work/.gcc/bin:/home/dave/pkgsrc/local/py-Ueberzug/work/.tools/bin:/usr/pkg/bin:/usr/pkg/sbin:/usr/pkg/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/pkg/bin:/usr/X11R7/bin PREFIX=/usr/pkg MAKELEVEL=0 CONFIG_SITE= PKG_SYSCONFDIR=/usr/pkg/etc CXXCPP=cpp HOME=/home/dave/pkgsrc/local/py-Ueberzug/work/.home CWRAPPERS_CONFIG_DIR=/home/dave/pkgsrc/local/py-Ueberzug/work/.cwrapper/config
+CPPFLAGS=   -I/usr/pkg/include -I/usr/X11R7/include -I/usr/include -I/usr/pkg/include/python3.8
+FFLAGS=-O
+HOMEPAGE=https://github.com/seebye/ueberzug
+LDFLAGS=   -L/usr/pkg/lib -L/usr/X11R7/lib -Wl,-R/usr/X11R7/lib -L/usr/lib -Wl,-R/usr/lib -Wl,-R/usr/pkg/lib
+LICENSE=gnu-gpl-v3
+LOCALBASE=/usr/pkg
+MACHINE_ARCH=x86_64
+MACHINE_GNU_ARCH=x86_64
+MAINTAINER=david.pfeiffer@pm.me
+MULTI=PYTHON_VERSION_REQD=38
+NO_BIN_ON_CDROM=
+NO_BIN_ON_FTP=
+NO_SRC_ON_CDROM=
+NO_SRC_ON_FTP=
+OBJECT_FMT=ELF
+OPSYS=NetBSD
+OS_VERSION=9.2_STABLE
+PKGGNUDIR=gnu/
+PKGINFODIR=info
+PKGMANDIR=man
+PKGPATH=local/py-Ueberzug
+PKGTOOLS_VERSION=20091115
+PKG_SYSCONFBASEDIR=/usr/pkg/etc
+PKG_SYSCONFDIR=/usr/pkg/etc
+PYTHON_VERSION_DEFAULT=38
+RESTRICTED=
+_PLIST_IGNORE_FILES=
+_USE_DESTDIR=user-destdir

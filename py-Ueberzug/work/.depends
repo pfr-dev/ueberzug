@@ -1,0 +1,10 @@
+bootstrap	digest>=20010302	../../pkgtools/digest
+tool	checkperms>=1.1	../../sysutils/checkperms
+build	x11-links>=1.33	../../pkgtools/x11-links
+build	cwrappers>=20150314	../../pkgtools/cwrappers
+full	py38-psutil>=5.8.0	../../sysutils/py-psutil
+full	py38-Pillow>=8.2.0	../../graphics/py-Pillow
+full	py38-docopt>=0.6.2	../../devel/py-docopt
+full	py38-attrs>=18.2.0	../../devel/py-attrs
+full	py38-setuptools-[0-9]*	../../devel/py-setuptools
+full	python38>=3.8.0	../../lang/python38

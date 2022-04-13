@@ -1,0 +1,7 @@
+local/py-Ueberzug/Makefile:	$NetBSD$
+local/py-Ueberzug/PLIST:	$NetBSD$
+local/py-Ueberzug/distinfo:	$NetBSD$
+local/py-Ueberzug/patches/patch-Xshm_Xshm.c:	$NetBSD$
+local/py-Ueberzug/patches/patch-examples_fzfimg.sh:	$NetBSD$
+local/py-Ueberzug/patches/patch-ueberzug_query__windows.py:	$NetBSD$
+local/py-Ueberzug/patches/patch-ueberzug_xutil.py:	$NetBSD$

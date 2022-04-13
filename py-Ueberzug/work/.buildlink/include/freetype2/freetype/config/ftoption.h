@@ -1,0 +1,1 @@
+/usr/pkg/share/x11-links/include/freetype2/freetype/config/ftoption.h
